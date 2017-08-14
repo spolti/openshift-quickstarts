@@ -3,7 +3,7 @@
 *.iml
 *.ipr
 *.iws
-*.jar
+#*.jar
 *.war
 *~
 .DS_Store
